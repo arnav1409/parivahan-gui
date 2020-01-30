@@ -1,0 +1,33 @@
+.Front-page{
+    border: solid slategray 1px;
+}
+.Book{
+    display: flex;
+}
+.Offer{
+    display: flex;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.check-button {
+    margin-top: -15px !important;
+    margin-left:  10px !important;
+}
+.App{
+    width:80%;
+	margin:0 auto;
+	display:block;
+
+}
+.parent-container{
+    width:90%;
+  margin:0 auto;
+  display:block;
+  }
+.feedBack-popover{
+    width: 100%;
+}

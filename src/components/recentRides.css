@@ -1,0 +1,18 @@
+.parent-container{
+  width:80%;
+margin:0 auto;
+display:block;
+}
+.pagination{
+  float: right;
+  cursor: pointer;
+  width: 20%;
+  margin: 2px;
+  color: mediumblue;
+}
+.grand-container{
+  float: right;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}

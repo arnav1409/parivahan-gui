@@ -1,0 +1,37 @@
+.gm-style-iw {
+	padding: 0 !important;
+	padding-right: 13px !important;
+
+	.gm-style-iw-d {
+		overflow: hidden !important;
+		padding: 5px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	// button {
+	// 	display: none !important;
+	// }
+}
+
+.duration-block {
+	display: flex;
+	align-items: center;
+
+	.duration-info {
+		font-size: 14px;
+		color: #FF930E;
+		font-weight: 600;
+		margin-left: 4px;
+	}
+
+	img {
+		height: 20px;
+	}
+}
+
+.distance-info {
+	font-size: 10px;
+	font-weight: 600;
+}

@@ -1,0 +1,99 @@
+.FormStyle {
+  width: 555px;
+  margin: auto;
+  padding: 2em;
+}
+
+.FormStyle-home{
+  padding: 2em;
+  margin: auto;
+  width: 70%;
+}
+.FieldSet{
+  width:235px;
+  margin:auto;
+  padding:16px;
+}
+
+.GridListDisplay{
+background: #2196F3;
+}
+.Button-spaces{
+margin-left: 10px
+}
+.root{
+width:80%;
+margin:0 auto;
+display:block;
+
+}
+.back-button{
+margin-left: 10px !important;
+}
+
+
+.side-button{
+margin-left: 10px !important;
+}
+.App-bar-name{
+margin-top:15px !important;
+color: white !important;
+}
+.PariVahan{
+margin-top:15px !important;
+color: white !important;  
+}
+/* .feedback-form:{
+
+} */
+.feedback-fieldset{
+ width : 40%;
+}
+.success-msg{
+  padding-left: 24px;
+}
+.feedback-button{
+  margin: 10px;
+}
+
+.login-button {
+margin-top: 10px;
+}    
+
+.login-loading {
+font-size: 20px;
+margin-top: 10px;
+height: 38px;
+}
+
+.full-height, #map, [id^='map'], [id*=' map'] {
+  height: 515px;
+  margin-top: 32px;
+  margin-bottom: 32px;
+  width: 99%;
+}
+
+.full-height-map ,#map1 {
+height: 535px;
+margin-top: 38px;
+width:100%;
+}
+.full-height-map, #map2{
+height: 423px;
+margin-top: 42px;
+width:100%;
+}
+
+.log-out{
+margin-left:30px !important;
+height: 41px !important;
+margin-top: 10px !important;
+}
+
+.btn-accept{
+padding: 10px;
+}
+
+.cursor{
+cursor: pointer;
+}

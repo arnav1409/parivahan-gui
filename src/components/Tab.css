@@ -1,0 +1,13 @@
+.tab-bar{
+    color: mediumblue !important;
+}
+.tab-container{
+    width:84%;
+  margin:0 auto;
+  display:block;
+  }
+  .child-container{
+    width:100%;
+    margin:0 auto;
+    display:block;
+  }
